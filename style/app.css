@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(203, 188, 138);
+  background-color: rgb(196, 178, 119);
 }
 
 h1 {
@@ -27,8 +27,13 @@ p {
   margin-top: 15px;
 }
 
+.link {
+  color: green;
+}
+
 .photo {
   max-width: 100%;
   height: auto;
   margin: 0 auto;
+  border-radius: 10px;
 }
