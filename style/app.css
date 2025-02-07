@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(196, 178, 119);
+  background-color: rgb(252, 226, 141);
 }
 
 h1 {
@@ -33,6 +33,7 @@ p {
 
 .photo {
   max-width: 100%;
+  display: block;
   height: auto;
   margin: 0 auto;
   border-radius: 10px;
